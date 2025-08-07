@@ -12,7 +12,7 @@ public class Student {
         this.rollNo = rollNo;
 
     }
-
+//
     //method to display
     void displayDetails(){
         System.out.println("name:" + name);
